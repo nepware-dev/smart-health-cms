@@ -1,0 +1,7 @@
+.venv/
+.ruff_cache/
+.vscode/
+**/*.pyc
+__pycache__/
+db.sqlite3
+.env
